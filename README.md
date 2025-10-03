@@ -1,11 +1,10 @@
 # Marketing-Customer-Segmentation-Using-RFM
 This project focuses on customer segmentation using the RFM (Recency, Frequency, Monetary) model. RFM analysis is a powerful technique in marketing analytics that helps businesses identify different customer groups based on their purchasing behavior, enabling data-driven strategies for customer retention, engagement, and targeting.
 ## Project Overview
-- Performed data cleaning and preprocessing.
-- Calculated Recency, Frequency, and Monetary values for each customer.
-- Created RFM scores and segmented customers into groups.
-- Visualized customer segments dashboard for business insights by Power BI.
-## Customer Segments depending on RFM
+- Performed data cleaning and preprocessing (Online Retail.xlsx)
+- Created RFM (Recency, Frequency, and Monetary) scores and segmented customers into groups (Customer_seqmentation.ipynb).
+- Visualized customer segments dashboard for business insights by Power BI (Customers.pbix).
+## Customer Segments depending on RFM and Dashborad by Power BI.
 The following segmentation map was used:
 - hibernating – inactive customers who haven’t purchased recently.
 - at_risk – previously valuable customers who are becoming inactive.
