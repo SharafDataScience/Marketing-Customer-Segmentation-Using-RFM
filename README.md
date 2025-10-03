@@ -6,7 +6,7 @@ This project focuses on customer segmentation using the RFM (Recency, Frequency,
 - Created RFM scores and segmented customers into groups.
 - Visualized customer segments for business insights.
 ## Customer Segments depending on RFM
-- The following segmentation map was used:
+The following segmentation map was used:
 - hibernating – inactive customers who haven’t purchased recently.
 - at_risk – previously valuable customers who are becoming inactive.
 - cant_lose – important customers who are at high risk of churning.
