@@ -17,3 +17,6 @@ The following segmentation map was used:
 - new_customers – first-time buyers.
 - potential_loyalists – engaged buyers who can become loyal with encouragement.
 - champions – the most valuable, highly engaged customers.
+
+
+<img width="864" height="478" alt="image" src="https://github.com/user-attachments/assets/2ceab421-6324-4766-bdf0-a1856b383815" />
