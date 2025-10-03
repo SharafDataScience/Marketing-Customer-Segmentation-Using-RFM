@@ -4,7 +4,7 @@ This project focuses on customer segmentation using the RFM (Recency, Frequency,
 - Performed data cleaning and preprocessing.
 - Calculated Recency, Frequency, and Monetary values for each customer.
 - Created RFM scores and segmented customers into groups.
-- Visualized customer segments for business insights.
+- Visualized customer segments dashboard for business insights by Power BI.
 ## Customer Segments depending on RFM
 The following segmentation map was used:
 - hibernating – inactive customers who haven’t purchased recently.
